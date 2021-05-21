@@ -1,2 +1,2 @@
-# GSSOC-21
-Here is my contributions to GSSOC'21.
+# UNet from scratch
+Here I have implemented the UNET paper for image segmentation from scratch using pyTorch.
